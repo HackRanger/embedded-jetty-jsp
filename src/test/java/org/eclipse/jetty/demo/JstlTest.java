@@ -19,7 +19,7 @@ public class JstlTest {
 
     @Before
     public void aJettyServer() throws Exception {
-        main = new Main(8080);
+        main = new Main(9090);
         main.start();
     }
 
