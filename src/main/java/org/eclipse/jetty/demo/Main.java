@@ -96,7 +96,7 @@ public class Main
 
     public static void main(String[] args) throws Exception
     {
-        int port = 8080;
+        int port = 9090;
         LoggingUtil.config();
 
         Main main = new Main(port);
